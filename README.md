@@ -8,9 +8,9 @@ The project includes:
 
  *_Toronto Map_*
 
-![torontoMap](torontomap.jpg)
+![torontoMap](torontomap.JPG)
 
  *_Toonto Clusters Map_*
 
-![torontoMap](TorontoClusters.jpg)
+![torontoMap](TorontoClusters.JPG)
                                        *BOUMLIK OUMAIMA*
